@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="Haikal Aghista — Fullstack Developer · Informatics Student">
+  <title>Haikal Aghista — Fullstack Developer · Informatics Student</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="0.55" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#05070F"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="0.35" stop-color="#60A5FA"/>
+      <stop offset="0.7" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#34D399"/>
+      <animate attributeName="x1" values="0;0.55;0" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.45;1" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="pillStroke" x1="72" y1="0" x2="288" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <linearGradient id="cardGlow" x1="706" y1="62" x2="1130" y2="276" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8AB4FF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+
+    <clipPath id="frame">
+      <rect width="1200" height="340" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <!-- aurora blobs -->
+    <circle cx="1040" cy="30" r="190" fill="#7C3AED" fill-opacity="0.30" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -26 22; 0 0" dur="19s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="320" r="150" fill="#0EA5E9" fill-opacity="0.22" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 24 -18; 0 0" dur="23s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="350" r="150" fill="#10B981" fill-opacity="0.14" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 34 0; 0 0" dur="17s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- availability pill -->
+    <rect x="72" y="58" width="216" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.04" stroke="url(#pillStroke)"/>
+    <circle cx="95" cy="75" r="4" fill="#34D399" fill-opacity="0.35">
+      <animate attributeName="r" values="4;10;4" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.35;0;0.35" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="95" cy="75" r="3.5" fill="#34D399"/>
+    <text x="110" y="79.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.9" fill="#7EE7C7">OPEN TO INTERNSHIP</text>
+
+    <!-- headline -->
+    <text x="70" y="178" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2" fill="url(#shine)">Haikal Aghista</text>
+    <text x="73" y="220" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.2" fill="#9FB0C9">Fullstack Developer · Informatics Student</text>
+    <text x="73" y="252" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#64748B">Learning in public — building end-to-end web experiences.</text>
+
+    <!-- code card -->
+    <rect x="706" y="62" width="424" height="214" rx="18" fill="url(#cardGlow)" fill-opacity="0.10"/>
+    <rect x="706" y="62" width="424" height="214" rx="18" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <circle cx="731" cy="88" r="5" fill="#F87171" fill-opacity="0.85"/>
+    <circle cx="750" cy="88" r="5" fill="#FBBF24" fill-opacity="0.85"/>
+    <circle cx="769" cy="88" r="5" fill="#34D399" fill-opacity="0.85"/>
+    <text x="790" y="92.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#5B6B85">profile.ts</text>
+    <line x1="706" y1="106" x2="1130" y2="106" stroke="#FFFFFF" stroke-opacity="0.07"/>
+
+    <text x="730" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <tspan fill="#C084FC">const</tspan><tspan fill="#E2E8F0"> me </tspan><tspan fill="#64748B">= {</tspan>
+    </text>
+    <text x="730" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <tspan fill="#7DD3FC">&#160;&#160;role</tspan><tspan fill="#64748B">: </tspan><tspan fill="#86EFAC">"fullstack"</tspan><tspan fill="#64748B">,</tspan>
+    </text>
+    <text x="730" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <tspan fill="#7DD3FC">&#160;&#160;stack</tspan><tspan fill="#64748B">: [</tspan><tspan fill="#86EFAC">"ts"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#86EFAC">"react"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#86EFAC">"node"</tspan><tspan fill="#64748B">],</tspan>
+    </text>
+    <text x="730" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <tspan fill="#7DD3FC">&#160;&#160;mindset</tspan><tspan fill="#64748B">: </tspan><tspan fill="#86EFAC">"ship &gt; perfect"</tspan><tspan fill="#64748B">,</tspan>
+    </text>
+    <text x="730" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <tspan fill="#64748B">};</tspan>
+    </text>
+    <text x="730" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">// shipping...</text>
+    <rect x="831" y="245" width="7" height="14" rx="1" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- stack chips -->
+    <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="0.2">
+      <rect x="72" y="282" width="92" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <text x="118" y="301" text-anchor="middle" fill="#A5B4CB">JavaScript</text>
+
+      <rect x="172" y="282" width="60" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <text x="202" y="301" text-anchor="middle" fill="#A5B4CB">React</text>
+
+      <rect x="240" y="282" width="72" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <text x="276" y="301" text-anchor="middle" fill="#A5B4CB">Node.js</text>
+
+      <rect x="320" y="282" width="66" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <text x="353" y="301" text-anchor="middle" fill="#A5B4CB">Python</text>
+
+      <rect x="394" y="282" width="66" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <text x="427" y="301" text-anchor="middle" fill="#A5B4CB">Docker</text>
+    </g>
+
+    <!-- bottom accent -->
+    <rect x="0" y="338" width="1200" height="2" fill="url(#shine)" opacity="0.55"/>
+  </g>
+</svg>
