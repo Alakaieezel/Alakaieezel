@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="./banner.svg" alt="eezel alakai — Fullstack Developer" width="100%" />
+  <img src="./banner.svg?v=2" alt="eezel alakai, Fullstack Developer" width="100%" />
 
   <br /><br />
 
@@ -24,12 +24,12 @@
 ## <samp>❯ whoami</samp>
 
 Informatics Engineering student who learns by building. I turn ideas into responsive interfaces, then wire them to a real backend.
-Currently going deep into web development — one commit, one small win at a time.
+Currently going deep into web development: one commit, one small win at a time.
 
-- **Education** — Informatics Engineering, semester 3
-- **Building** — [Portofolio Angkasa](https://alakaieezel.github.io/Portofolio/)
-- **Learning** — React, Node.js, databases, Docker
-- **Open to** — internship, freelance, collaboration
+- **Education**: Informatics Engineering, semester 3
+- **Building**: [Portofolio Angkasa](https://alakaieezel.github.io/Portofolio/)
+- **Learning**: React, Node.js, databases, Docker
+- **Open to**: internship, freelance, collaboration
 
 ---
 
@@ -58,7 +58,7 @@ Currently going deep into web development — one commit, one small win at a tim
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | **[Portofolio Angkasa](https://alakaieezel.github.io/Portofolio/)** | Interactive solar-system portfolio: every planet is a skill you can rotate, zoom, and explore. · [`source`](https://github.com/Alakaieezel/Portofolio) | `HTML` `CSS` `JavaScript` |
-| **[Profile README](https://github.com/Alakaieezel/Alakaieezel)** | This page — animated SVG banner, dark theme, and an automated contribution workflow. | `SVG` `GitHub Actions` |
+| **[Profile README](https://github.com/Alakaieezel/Alakaieezel)** | This page: animated SVG banner, dark theme, and an automated contribution workflow. | `SVG` `GitHub Actions` |
 
 <div align="center">
 
@@ -104,8 +104,8 @@ Currently going deep into web development — one commit, one small win at a tim
 
 <div align="center">
 
-  <img src="./footer.svg" width="100%" alt="Thanks for stopping by" />
+  <img src="./footer.svg?v=2" width="100%" alt="Thanks for stopping by" />
 
-  <sub><samp>⭐️ Dari Bumi, untuk masa depan — built line by line.</samp></sub>
+  <sub><samp>⭐️ Dari Bumi, untuk masa depan. Built line by line.</samp></sub>
 
 </div>

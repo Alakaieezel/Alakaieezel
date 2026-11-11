@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="eezel alakai — Fullstack Developer · Informatics Student">
-  <title>eezel alakai — Fullstack Developer · Informatics Student</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="eezel alakai · Fullstack Developer · Informatics Student">
+  <title>eezel alakai · Fullstack Developer · Informatics Student</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#070B16"/>
@@ -66,7 +66,7 @@
     <!-- headline -->
     <text x="70" y="178" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2" fill="url(#shine)">eezel alakai</text>
     <text x="73" y="220" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.2" fill="#9FB0C9">Fullstack Developer · Informatics Student</text>
-    <text x="73" y="252" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#64748B">Learning in public — building end-to-end web experiences.</text>
+    <text x="73" y="252" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#64748B">Learning in public. Building end-to-end web experiences.</text>
 
     <!-- code card -->
     <rect x="706" y="62" width="424" height="214" rx="18" fill="url(#cardGlow)" fill-opacity="0.10"/>
