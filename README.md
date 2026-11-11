@@ -1,6 +1,6 @@
 <!--
   ┌─────────────────────────────────────────────────────────────┐
-  │  GitHub Profile README · Muhammad Haikal Aghista            │
+  │  GitHub Profile README · eezel alakai                         │
   │  Banner & footer: SVG custom (banner.svg / footer.svg)      │
   │  Panduan edit & deploy: SETUP.md                            │
   └─────────────────────────────────────────────────────────────┘
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="./banner.svg" alt="Haikal Aghista — Fullstack Developer" width="100%" />
+  <img src="./banner.svg" alt="eezel alakai — Fullstack Developer" width="100%" />
 
   <br /><br />
 
