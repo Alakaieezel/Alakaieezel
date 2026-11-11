@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Haikal Aghista — Fullstack Developer" width="100%" />
+  <img src="./banner.svg" ... /> alt="Haikal Aghista — Fullstack Developer" width="100%" />
 
   <br /><br />
 
@@ -104,7 +104,7 @@ Currently going deep into web development — one commit, one small win at a tim
 
 <div align="center">
 
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
+  <img src="./footer.svg" ... /> width="100%" alt="Thanks for stopping by" />
 
   <sub><samp>⭐️ Dari Bumi, untuk masa depan — built line by line.</samp></sub>
 
