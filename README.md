@@ -1,14 +1,14 @@
 <!--
   ┌─────────────────────────────────────────────────────────────┐
   │  GitHub Profile README · Muhammad Haikal Aghista            │
-  │  Banner & footer: SVG custom (assets/)                      │
+  │  Banner & footer: SVG custom (banner.svg / footer.svg)      │
   │  Panduan edit & deploy: SETUP.md                            │
   └─────────────────────────────────────────────────────────────┘
 -->
 
 <div align="center">
 
-  <img src="./banner.svg" ... /> alt="Haikal Aghista — Fullstack Developer" width="100%" />
+  <img src="./banner.svg" alt="Haikal Aghista — Fullstack Developer" width="100%" />
 
   <br /><br />
 
@@ -38,14 +38,14 @@ Currently going deep into web development — one commit, one small win at a tim
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Ctailwind%2Cgit%2Cgithub%2Cvscode&theme=dark&perline=8" />
     <img alt="Frontend & tooling" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&theme=light&perline=8" />
   </picture>
 
   <br /><br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,docker,githubactions,npm,bash&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cpython%2Cpostgres%2Cmongodb%2Cdocker%2Cgithubactions%2Cnpm%2Cbash&theme=dark&perline=8" />
     <img alt="Backend & DevOps" src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,docker,githubactions,npm,bash&theme=light&perline=8" />
   </picture>
 
@@ -104,7 +104,7 @@ Currently going deep into web development — one commit, one small win at a tim
 
 <div align="center">
 
-  <img src="./footer.svg" ... /> width="100%" alt="Thanks for stopping by" />
+  <img src="./footer.svg" width="100%" alt="Thanks for stopping by" />
 
   <sub><samp>⭐️ Dari Bumi, untuk masa depan — built line by line.</samp></sub>
 
